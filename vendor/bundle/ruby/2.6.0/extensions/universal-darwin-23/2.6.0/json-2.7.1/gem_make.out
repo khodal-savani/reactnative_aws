@@ -1,0 +1,16 @@
+current directory: /Users/khodal/Desktop/Khodal/reactnative/demo/awsDemoOldVersion/vendor/bundle/ruby/2.6.0/gems/json-2.7.1/ext/json
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/khodal/Desktop/Khodal/reactnative/demo/awsDemoOldVersion/vendor/bundle/ruby/2.6.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240208-26530-2f0arv sitelibdir\=./.gem.20240208-26530-2f0arv clean
+
+current directory: /Users/khodal/Desktop/Khodal/reactnative/demo/awsDemoOldVersion/vendor/bundle/ruby/2.6.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240208-26530-2f0arv sitelibdir\=./.gem.20240208-26530-2f0arv
+make: Nothing to be done for `all'.
+
+current directory: /Users/khodal/Desktop/Khodal/reactnative/demo/awsDemoOldVersion/vendor/bundle/ruby/2.6.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240208-26530-2f0arv sitelibdir\=./.gem.20240208-26530-2f0arv install
+
+current directory: /Users/khodal/Desktop/Khodal/reactnative/demo/awsDemoOldVersion/vendor/bundle/ruby/2.6.0/gems/json-2.7.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240208-26530-2f0arv sitelibdir\=./.gem.20240208-26530-2f0arv clean
